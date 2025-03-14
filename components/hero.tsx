@@ -38,7 +38,7 @@ export function Hero() {
           <div className="absolute -inset-1 rounded-full bg-gradient-to-r from-yellow-400 to-yellow-300" />
           <div className="relative">
             <Image
-              src="https://pixhost.to/show/922/576102511_ea25bc11672f019e171fdb99ecf7c222.jpg"
+              src="https://files.catbox.moe/yd2zo6.jpg"
               alt="My Profile"
               width={200}
               height={200}
